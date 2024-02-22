@@ -1,0 +1,145 @@
+.head {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid yellowgreen;
+    align-items: center;
+    background-color: white;
+}
+
+.page {
+    border: solid;
+    background-color: green;
+    height: 90px;
+    margin-right: 300px;
+}
+
+.page h1 {
+    color: white;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+nav {
+    width: 300px;
+}
+
+
+.Box {
+   border: 1px solid;
+   height: 770px;
+   width: 650px;
+   margin-top: 30px;
+   margin-left: 190px;
+   padding-right: 28px;
+   background-color: white;
+}
+
+.Box h1 {
+    margin-left: 30px;
+    border-bottom: 3px solid green;
+    color: green;
+    padding-bottom: 30px;
+}
+
+.Box h3 {
+    margin-left: 30px;
+    margin-top: 70px;
+    
+    
+    
+}
+
+ 
+.Box input {
+    margin-left: 30px;
+    padding-right: 400px;
+    height: 30px;
+}
+
+.Box textarea{
+    width: 50px;
+    height: 20px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.Box textarea {
+    margin-left: 30px;
+}
+
+.Box button {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: x-large;
+    background-color: green;
+    color: white;
+}
+
+.book {
+    border: 1px solid;
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 15px;
+    margin-top: 30px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    height: 320px;
+    
+}
+
+.book h2 {
+    margin-left: 30px;
+    margin-bottom: 210px;
+    margin-top:10px ;
+    border-bottom: 1px solid green;
+    padding-top: 4px;
+    
+    
+    
+    
+}
+
+main {
+    display: flex;
+}
+
+.book img {
+    border: 1px solid;
+    height: 30px;
+    margin-top: 1px;
+    margin-bottom: 300px;
+    margin-left: 35px;
+    width: 20px;
+    
+    
+    
+}
+
+/* .book .img1 {
+    margin-right: 7px;
+}
+
+
+.book .img2 {
+    margin-right: 7px;
+
+}
+
+
+.book .img3 {
+    margin-right: 80px;
+} */
+

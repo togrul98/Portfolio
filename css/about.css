@@ -1,0 +1,33 @@
+.head {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid yellowgreen;
+    align-items: center;
+    background-color: white;
+}
+
+.page {
+    border: solid;
+    background-color: green;
+    height: 90px;
+    margin-right: 300px;
+}
+
+.page h1 {
+    color: white;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+nav {
+    width: 300px;
+}
